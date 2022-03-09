@@ -1,0 +1,40 @@
+.Domain-Box{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: rgb(245, 245, 245);
+}
+.Domain {
+    background-color: white;
+    border-radius: 1px solid white;
+    border-radius: 10px;
+    width: 250px;
+    margin:30px;
+}
+.Domains-size{
+    padding: 20px;
+    text-align: center;
+
+}
+.D-name{
+    font-size: 23px;
+}
+.D-price{
+    padding-top: 20px;
+}
+.D-description {
+    color: rgb(126, 123, 123);
+    font-size: 13px;
+}
+.D-button{
+    margin-top:25px;
+    border: 1px solid rgb(46, 111, 250);
+    padding: 7px;
+    border-radius: 5px;
+    cursor: pointer;
+    color:rgb(46, 111, 250);
+}
+.D-button:active{
+    background-color:rgb(46, 111, 250);
+    color: white;
+}

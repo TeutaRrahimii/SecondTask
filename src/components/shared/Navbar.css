@@ -1,0 +1,15 @@
+.Tab{
+    color: black;
+    background-color: white;
+    text-align: center;
+    padding-top: 10px;
+    font-style: none;
+    
+   
+}
+.Tab:active{
+    color: rgb(46, 111, 250);
+    font-size: 15px;
+    cursor: pointer;
+
+}
